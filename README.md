@@ -1,1 +1,2 @@
-# 8Input-XOR
+# 8 Input XOR
+This project implements a simple Multi-Layer Perceptron (MLP) from scratch to solve the XOR problem for 8-input data. The MLP is built without any machine learning libraries, ensuring a complete understanding of the underlying mathematical operations and weight updates. This project provides insight into how neural networks function at the fundamental level, demonstrating how MLPs can approximate non-linear functions like XOR.
